@@ -12,7 +12,7 @@ A comprehensive web-based sentiment analysis application demonstrating advanced 
 - Text normalization and confidence scoring
 - Demonstrates understanding of NLP fundamentals
 
-### 2. **Professional User Interface**
+### 2. **Professional User Interface**   
 - Modern, responsive design with dark theme
 - Smooth animations using Framer Motion
 - Gesture-based interactions (drag-to-dismiss)
